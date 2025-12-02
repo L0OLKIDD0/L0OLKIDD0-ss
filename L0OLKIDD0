@@ -152,7 +152,7 @@ local scripts = {
 
 	{"Xester.txt","https://raw.githubusercontent.com/nicolasbarbosa323/xester/refs/heads/main/qC7MUFRJ.txt"},
 
-  {"epic dancezz fe.txt","https://rawscripts.net/raw/Universal-Script-Epik-R6-Dancezz-42246.txt"},
+    {"epic dancezz fe.txt","https://rawscripts.net/raw/Universal-Script-Epik-R6-Dancezz-42246.txt"},
 
 }
 
@@ -184,7 +184,7 @@ lel.BackgroundColor3 = Color3.new(0,0,0)
 
 lel.ImageColor3 = Color3.new(1,1,1)
 
-lel.Image = "rbxassetid://115136318122888"
+lel.Image = "rbxassetid://91918175264782"
 
 lel.Parent = logoGui
 
@@ -204,7 +204,7 @@ Ring.BackgroundColor3 = Color3.new(0,0,0)
 
 Ring.ImageColor3 = Color3.new(0,0,0)
 
-Ring.Image = "rbxassetid://91918175264782"
+Ring.Image = "rbxassetid://115136318122888"
 
 Ring.Parent = lel
 
