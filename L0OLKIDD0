@@ -184,7 +184,7 @@ lel.BackgroundColor3 = Color3.new(0,0,0)
 
 lel.ImageColor3 = Color3.new(1,1,1)
 
-lel.Image = "rbxassetid://115136318122888"
+lel.Image = "rbxassetid://91918175264782"
 
 lel.Parent = logoGui
 
