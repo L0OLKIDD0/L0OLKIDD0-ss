@@ -152,7 +152,11 @@ local scripts = {
 
 	{"Xester.txt","https://raw.githubusercontent.com/nicolasbarbosa323/xester/refs/heads/main/qC7MUFRJ.txt"},
 
-    {"epic dancezz fe.txt","https://rawscripts.net/raw/Universal-Script-Epik-R6-Dancezz-42246.txt"},
+    {"epic dancezz fe.txt","https://rawscripts.net/raw/Universal-Script-Epik-R6-Dancezz-42246"},
+
+    {"hacker x.txt","https://raw.githubusercontent.com/ian49972/SCRIPTS/refs/heads/main/Hacker%20X"},
+
+    {"all seing hand.txt","https://raw.githubusercontent.com/ian49972/SCRIPTS/refs/heads/main/hand"},
 
 }
 
