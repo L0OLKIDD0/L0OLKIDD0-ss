@@ -1,4 +1,4 @@
--- L0OLKIDD0 SS - Full GUI (safe mode: buttons insert loadstring text; execution only via Execute button)
+-- project L0OLKIDD0- Full GUI (safe mode: buttons insert loadstring text; execution only via Execute button)
 
 local Players = game:GetService("Players")
 
@@ -264,7 +264,7 @@ end)
 
 local gui = Instance.new("ScreenGui")
 
-gui.Name = "L0OLKIDD0 SS"
+gui.Name = "project L0OLKIDD0"
 
 gui.ResetOnSpawn = false
 
@@ -302,7 +302,7 @@ titleBar.Position = UDim2.new(0,0,0,0)
 
 titleBar.BackgroundColor3 = Color3.fromRGB(0,0,0)
 
-titleBar.Text = "   L0OLKIDD0 SS"
+titleBar.Text = "   project L0OLKIDD0"
 
 titleBar.TextColor3 = Color3.fromRGB(255, 0, 0)
 
