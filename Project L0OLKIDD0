@@ -156,9 +156,7 @@ local scripts = {
 
     {"hacker x.txt","https://raw.githubusercontent.com/ian49972/SCRIPTS/refs/heads/main/Hacker%20X"},
 
-    {"all seing hand.txt","https://raw.githubusercontent.com/ian49972/SCRIPTS/refs/heads/main/hand"},
-
-    {"gyatt fe r15.txt"."https://raw.githubusercontent.com/L0OLKIDD0/Gyatt-fe-script-r15/refs/heads/main/Gyatt%20fe%20r15"},
+    {"all seing hand.txt","https://raw.githubusercontent.com/ian49972/SCRIPTS/refs/heads/main/hand",
 
 }
 
