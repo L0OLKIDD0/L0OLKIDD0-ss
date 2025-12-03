@@ -444,7 +444,7 @@ local function pressEffect(button)
 
 	button.MouseButton1Up:Connect(function()
 
-		button.BackgroundColor3 = Color3.fromRGB(255,2)
+		button.BackgroundColor3 = Color3.fromRGB(255,0,0)
 
 	end)
 
@@ -510,7 +510,7 @@ for _, entry in ipairs(scripts) do
 
 	btn.MouseButton1Down:Connect(function()
 
-		btn.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+		btn.BackgroundColor3 = Color3.fromRGB(255,0,0)
 
 	end)
 
