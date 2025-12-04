@@ -282,7 +282,7 @@ frame.Size = UDim2.new(0, 600, 0, 350)
 
 frame.Position = UDim2.new(0.2, 0, 0.25, 0)
 
-frame.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+frame.BackgroundColor3 = Color3.fromRGB(255,0,0)
 
 frame.BorderSizePixel = 2
 
@@ -304,7 +304,7 @@ titleBar.BackgroundColor3 = Color3.fromRGB(0,0,0)
 
 titleBar.Text = "   project L0OLKIDD0"
 
-titleBar.TextColor3 = Color3.fromRGB(255, 0, 0)
+titleBar.TextColor3 = Color3.fromRGB(255,0,0)
 
 titleBar.Font = Enum.Font.SourceSansBold
 
@@ -322,7 +322,7 @@ scriptHubFrame.Size = UDim2.new(0, 150, 1, -2)
 
 scriptHubFrame.Position = UDim2.new(1, -152, 0, 1)
 
-scriptHubFrame.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+scriptHubFrame.BackgroundColor3 = Color3.fromRGB(255,0,0)
 
 scriptHubFrame.BorderSizePixel = 2
 
@@ -346,9 +346,9 @@ scriptBox.Size = UDim2.new(1, -170, 1, -95)
 
 scriptBox.Position = UDim2.new(0, 10, 0, 35)
 
-scriptBox.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+scriptBox.BackgroundColor3 = Color3.fromRGB(0,0,0)
 
-scriptBox.TextColor3 = Color3.fromRGB(255, 0, 0)
+scriptBox.TextColor3 = Color3.fromRGB(255,0,0)
 
 scriptBox.Font = Enum.Font.Code
 
@@ -450,7 +450,7 @@ local function pressEffect(button)
 
 	button.MouseLeave:Connect(function()
 
-		button.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+		button.BackgroundColor3 = Color3.fromRGB(255,0,0)
 
 	end)
 
